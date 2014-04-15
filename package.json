@@ -1,0 +1,15 @@
+{
+  "name": "node.simple.server.socket.io",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "1-simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
